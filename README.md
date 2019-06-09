@@ -33,4 +33,14 @@ when extracting the square image data, be careful not to extract the just size o
  The automation of hadwritten number data extraction worked properly.  
  ![Screenshot from 2019-06-09 00-59-20](https://user-images.githubusercontent.com/47442084/59156077-5a0ad200-8ad0-11e9-9394-d07e5fbd61eb.png)  
  (capture of successful recognition of my handwritting)
+ 
+ ### cf1) 
+ The whole shape of captured data from my camera was (480, 640, 3)
+ 
+ ### cf2)
+ I used other windows for debugging such as window named 'predicting number of center' and 'debug_1'.  
+ Window named 'predicting number of center' was used before the implemetation of automatic extracting data. It extracted data of the center squre and predicted the image. It was used to show if the model was correctly trained.  
+ ![Screenshot from 2019-06-09 00-59-04](https://user-images.githubusercontent.com/47442084/59156532-fab0c000-8ad7-11e9-858d-1b12676e8bd7.png)  
+ Window named 'debug_1' was used to show the every contours of the image. It was used to set the range of area of contours that will be used for the prediction.  
+ ![Screenshot from 2019-06-09 16-58-29](https://user-images.githubusercontent.com/47442084/59156544-1916bb80-8ad8-11e9-8cea-ffc06cff0d14.png)
 
