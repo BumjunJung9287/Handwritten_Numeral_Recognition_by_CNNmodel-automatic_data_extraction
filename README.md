@@ -30,7 +30,7 @@ when extracting the square image data, be careful not to extract the just size o
 
 ## Result
  The accuracy of the model for the MNIST test data was 99.36% for 15 epochs.
- The automation of hadwritten number data extraction worked properly.
- ![Screenshot from 2019-06-09 00-59-20](https://user-images.githubusercontent.com/47442084/59156077-5a0ad200-8ad0-11e9-9394-d07e5fbd61eb.png)
+ The automation of hadwritten number data extraction worked properly.  
+ ![Screenshot from 2019-06-09 00-59-20](https://user-images.githubusercontent.com/47442084/59156077-5a0ad200-8ad0-11e9-9394-d07e5fbd61eb.png)  
  (capture of successful recognition of my handwritting)
 
