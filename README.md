@@ -26,5 +26,11 @@ When using extracted contours, make sure not to use contours that are too small 
 when extracting the square image data, be careful not to extract the just size of the contour. Instead, include some white black in the surrounding of the image to make the form of the data similar with MNIST data that had trained the model
 ![Screenshot from 2019-06-09 16-26-23](https://user-images.githubusercontent.com/47442084/59156285-6a707c00-8ad3-11e9-9b4f-3e632110b94a.png)
 
-4. 
+4. Put rectangle arround the extracted data, and also put predicted number data as a text to show the prediction.
+
+## Result
+ The accuracy of the model for the MNIST test data was 99.36% for 15 epochs.
+ The automation of hadwritten number data extraction worked properly.
+ ![Screenshot from 2019-06-09 00-59-20](https://user-images.githubusercontent.com/47442084/59156077-5a0ad200-8ad0-11e9-9394-d07e5fbd61eb.png)
+ (capture of successful recognition of my handwritting)
 
