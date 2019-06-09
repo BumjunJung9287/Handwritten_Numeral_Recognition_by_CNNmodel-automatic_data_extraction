@@ -4,11 +4,11 @@ The goal of this project is to automatically extract handwritten number image da
 ## Requirements
 ・python3  
 ・tensorflow
-  -1.13.1
+  -1.13.1  
 ・numpy
-  -1.16.2
+  -1.16.2  
 ・openCV (cv2)
-  -4.1.0
+  -4.1.0  
 
 ## Process
 1. Train the CNN model using MNIST example data from tensorflow module.
