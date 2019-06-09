@@ -11,8 +11,9 @@ The goal of this project is to automatically extract handwritten number image da
   -4.1.0  
 
 ## Process
-1. Train the CNN model using MNIST example data from tensorflow module.
+1. Train the CNN model using MNIST example data from tensorflow module.  
 In this model 3 Convolutional layers are used, and two Fully Connected layers.
 The shape of input data set is (None, 28*28) and the output data is (None, 10) for recognition of 10 nimbers of 0 to 9.
 
-2. Capture the video image in the while loop and using contour related methods in cv2 to extract the handwritten data
+2. Capture the video image in the while loop and using contour related methods in cv2 to extract the handwritten data.  
+To clearly extract contours from the image, 
