@@ -2,7 +2,7 @@
 The goal of this project is to automatically extract handwritten number image data from the video and predict the number by the CNN model trained with MNIST data. cv2's contour related methods are used for the automatic data extraction.
 
 ## Requirements
-・python3
+・python3  
 ・tensorflow
   -1.13.1
 ・numpy
